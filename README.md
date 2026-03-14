@@ -1,5 +1,11 @@
 # 🚀 Data Engineering Learning Resources
 
+![GitHub stars](https://img.shields.io/github/stars/livinvincent/data-engineering-learning-resources)
+![GitHub forks](https://img.shields.io/github/forks/livinvincent/data-engineering-learning-resources)
+![GitHub issues](https://img.shields.io/github/issues/livinvincent/data-engineering-learning-resources)
+![GitHub last commit](https://img.shields.io/github/last-commit/livinvincent/data-engineering-learning-resources)
+![GitHub repo size](https://img.shields.io/github/repo-size/livinvincent/data-engineering-learning-resources)
+
 A curated list of **Data Engineering resources, roadmaps, projects, and GitHub repositories** to help you learn and master Data Engineering.
 
 This repository collects valuable resources from the community including **handbooks, projects, learning platforms, and practical guides**.
